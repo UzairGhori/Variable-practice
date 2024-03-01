@@ -1,0 +1,10 @@
+var Myname = "uzair";
+console.log(Myname);
+var Myname1 = "AbdulUzair";
+console.log(Myname1);
+var number = 1;
+console.log(number);
+var solve = 3 + 5 * 6 / 2;
+console.log(solve);
+var student = true;
+console.log(student);
